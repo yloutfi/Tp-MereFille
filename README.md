@@ -33,3 +33,7 @@ Ensuite, une deuxième fenêtre (Fille) permet à l'utilisateur d'entrer un nouv
 
 <a href="https://www.casimages.com/i/19040209315824761116185628.png.html" target="_blank" title="hebergement d'image"><img src="https://nsm09.casimages.com/img/2019/04/02//19040209315824761116185628.png" border="0" alt="hebergement d'image" /></a>
 
+
+Code fenetre mere             |  Code boite de dialogue 
+:-------------------------:|:-------------------------:
+|<img src="image/boitedialogue.JPG" width="425"/>         | <img src="image/mere.jpg" width="425"/>
